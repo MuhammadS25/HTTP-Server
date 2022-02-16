@@ -1,0 +1,22 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\hgug\Desktop\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\hgug\Desktop\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\hgug\Desktop\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\hgug\Desktop\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\hgug\Desktop\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\hgug\Desktop\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\mazen\Desktop\New folder\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\mazen\Desktop\New folder\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\mazen\Desktop\New folder\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\mazen\Desktop\New folder\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\mazen\Desktop\New folder\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\mazen\Desktop\New folder\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\3rd year matrials\Computer Networks\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\3rd year matrials\Computer Networks\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\3rd year matrials\Computer Networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+D:\3rd year matrials\Computer Networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\3rd year matrials\Computer Networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\3rd year matrials\Computer Networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
